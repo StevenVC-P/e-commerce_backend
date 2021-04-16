@@ -11,8 +11,6 @@ This is a backend skeleton that allows a the user to use insomina or postman to 
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
-* [Contributing](#Contributing)
-* [Tests](#Tests)
 * [Questions](#Questions)
 
 ## Installation
@@ -25,11 +23,9 @@ Once the install steps are complete, in insomina you can use its features to add
 Mozzila Public License 2.0
 Please review [https://opensource.org/licenses/MPL-2.0](https://opensource.org/licenses/MPL-2.0) to understand the license.
 
-## Contributing
+![image](https://user-images.githubusercontent.com/77998885/115094473-3fcb8780-9ee3-11eb-9098-8e49624ef6bf.png)
 
-
-## Tests
-
+[View Walkthrough]https://drive.google.com/file/d/1gK5TDOzeoaUggGLjVIxXqTAP3ZDbp4lE/view
 
 ## Questions
 Come checkout my Github!
